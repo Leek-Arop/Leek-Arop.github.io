@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 header:
   overlay_image: /assets/images/banner.png
@@ -10,21 +10,21 @@ header:
 
 I am a cybersecurity researcher focused on:
 
-- 🔍 SOC Monitoring (Wazuh)
-- 🧪 Digital Forensics
-- 🏴 CTF Challenges
-- 🧠 Threat Analysis
+- SOC Monitoring (Wazuh)
+- Digital Forensics
+- CTF Challenges
+- Threat Analysis
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
-### 🛡 SOC Lab (Wazuh)
+### SOC Lab (Wazuh)
 Built a full SIEM environment for log monitoring and threat detection.
 
-### 🔬 Forensics Investigations
+### Forensics Investigations
 Memory + disk analysis using forensic tooling.
 
 ---
 
-## 📝 Latest Posts
+## Latest Posts
