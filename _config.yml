@@ -31,3 +31,8 @@ minimal_mistakes_skin: "dark"
 
 masthead:
   title: "Leek Arop | Cybersecurity"
+author:
+  name: "Leek Arop"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Cybersecurity Researcher | SOC | Forensics"
+  location: "UK"
