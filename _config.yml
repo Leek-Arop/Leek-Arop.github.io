@@ -1,17 +1,16 @@
 title: "Leek Arop"
 description: "Cybersecurity Researcher | CTF Player | Lecturer"
-theme: minimal-mistakes-jekyll
+
+remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin: "dark"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
 
 author:
   name: "Leek Arop"
   bio: "Cybersecurity Researcher | SOC | Forensics"
   location: "UK"
-  email: "leekarop12@outlook.com"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-markdown: kramdown
