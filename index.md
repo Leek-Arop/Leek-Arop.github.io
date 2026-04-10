@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.5
   caption: "Cybersecurity | SOC | Red Team | AI"
 ---
-## 👋 Welcome
+## 
 
 I am a cybersecurity researcher focused on:
 
