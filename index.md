@@ -2,11 +2,10 @@
 layout: home
 author_profile: true
 header:
-  overlay_image: /assets/images/banner.jpg
-  overlay_filter: 0.6
-  caption: "Cybersecurity | SOC | Digital Forensics"
+  overlay_image: /assets/images/banner.png
+  overlay_filter: 0.5
+  caption: "Cybersecurity | SOC | Red Team | AI"
 ---
-
 ## 👋 Welcome
 
 I am a cybersecurity researcher focused on:
