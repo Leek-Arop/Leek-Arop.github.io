@@ -18,3 +18,12 @@ header:
   overlay_image: /assets/images/banner.gif
   overlay_filter: 0.6
   caption: "Cybersecurity | SOC | Digital Forensics"
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "CTF"
+    url: /ctf/
+  - title: "Blog"
+    url: /categories/
